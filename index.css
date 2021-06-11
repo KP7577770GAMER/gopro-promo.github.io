@@ -23,7 +23,7 @@
     display: flex;
     background: linear-gradient(to right bottom, black, rgb(14, 55, 56), rgb(58, 148, 143), rgb(4, 138, 175));
     align-items: center;
-    width: 100%;
+    width: max-content;
 }
 
 .main_info {
@@ -76,7 +76,7 @@
     padding: 5%;
     background: linear-gradient(to right top, rgb(0, 0, 0), rgb(3, 46, 45), rgb(0, 0, 0));
     display: block;
-    width: 100%;
+    width: max-content;
 }
 
 .case {
